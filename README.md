@@ -17,15 +17,10 @@
 ## 🚀 Projects (Building Now)
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 1 | Supply Chain Disruption Tracker | SQL + Excel | 🔄 Jul 2026 |
-| 2 | Customer Churn Early Warning System | SQL + Python + Pandas | 🔄 Sep 2026 |
-| 3 | Retail Markdown Optimization | SQL + Python + Power BI | 🔄 Oct 2026 |
-| 4 | Last-Mile Delivery Intelligence | SQL + Python + Power BI + BigQuery | 🔄 Dec 2026 |
-| 5 | Credit Risk & Loan Default Prediction | SQL + Python + BigQuery | 🔄 Dec 2026 |
-| 6 | FinTech Fraud Pattern Intelligence | SQL + Python + Power BI + Looker | 🔄 Dec 2026 |
-| 7 | SaaS Revenue Expansion Intelligence | SQL + Python + Power BI + BigQuery | 🔄 Jan 2027 |
-| G1 | E-commerce Customer LTV Engine | Full Stack Cloud | 🔄 Feb 2027 |
-| G2 | Marketing Attribution Platform | Full Stack Cloud | 🔄 Feb 2027 |
+| 1 | FinTech Fraud Pattern Intelligence | SQL + Python + Power BI + Looker | 🔄 Dec 2026 |
+| 2 | SaaS Revenue Expansion Intelligence | SQL + Python + Power BI + BigQuery | 🔄 Jan 2027 |
+| 3 | E-commerce Customer LTV Engine | Full Stack Cloud | 🔄 Feb 2027 |
+| 4 | Marketing Attribution Platform | Full Stack Cloud | 🔄 Feb 2027 |
 
 ## 📈 LeetCode SQL Practice
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL%2050-orange)
