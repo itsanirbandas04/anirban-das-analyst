@@ -22,10 +22,6 @@
 | 3 | E-commerce Customer LTV Engine | Full Stack Cloud | 🔄 Feb 2027 |
 | 4 | Marketing Attribution Platform | Full Stack Cloud | 🔄 Feb 2027 |
 
-## 📈 LeetCode SQL Practice
-![LeetCode](https://img.shields.io/badge/LeetCode-SQL%2050-orange)
-- Solving LeetCode SQL Problems daily
-- Repository: [LeetCode-SQL-solutions](https://github.com/itsanirbandas04/LeetCode-SQL-solutions)
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirban%20Das-blue)](https://linkedin.com/in/anirban-das-analyst)
