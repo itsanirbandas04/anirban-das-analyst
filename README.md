@@ -12,15 +12,9 @@
 - 🐍 **Python:** Pandas · NumPy · Matplotlib · Seaborn
 - 📊 **Visualization:** Power BI · Looker Studio
 - ☁️ **Cloud:** GCP · Google Cloud Storage · BigQuery
-- 🔧 **Tools:** Git · GitHub · Excel · Jupyter Notebook
+- 🔧 **Tools:** Git · GitHub · Excel · Jupyter Notebook · VS Code · Google Collab
 
-## 🚀 Projects (Building Now)
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 1 | FinTech Fraud Pattern Intelligence | SQL + Python + Power BI + Looker | 🔄 Dec 2026 |
-| 2 | SaaS Revenue Expansion Intelligence | SQL + Python + Power BI + BigQuery | 🔄 Jan 2027 |
-| 3 | E-commerce Customer LTV Engine | Full Stack Cloud | 🔄 Feb 2027 |
-| 4 | Marketing Attribution Platform | Full Stack Cloud | 🔄 Feb 2027 |
+
 
 
 ## 🤝 Connect
